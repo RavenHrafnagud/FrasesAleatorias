@@ -7,6 +7,5 @@ export const useAleatorio = () => {
     var cita=frase[0].quote;
     var autor=frase[0].author;
     var link=`https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text=${autor}`;
-
     return{cita,autor,link};
 }
