@@ -1,22 +1,21 @@
 import React from 'react';
 import {useAleatorio} from '../hooks/useAleatorio';
-//import {useEscribir} from '../hooks/useEscribir';
-//import {useIntervalo} from '../hooks/useIntervalo';
 import {Section,Mainn,Div,I,A,Button} from '../Styles/Style';
 import {useClick} from '../hooks/useClick'
+import { GlobalStyle } from '../Styles/GlobalStyle';
+//import { useIntervalo } from '../hooks/useIntervalo';
+
 
 
 function Main() {
 
+    const {cita,autor,link}=useAleatorio();
 
     //useIntervalo();
 
-
-    const {cita,autor,link}=useAleatorio();
-
-  
-    return (
+    return (   
         <Mainn>
+            <GlobalStyle/>
             <Section id="quote-box">
                 <Div texto>
                     <I className="fa fa-quote-left"></I>
