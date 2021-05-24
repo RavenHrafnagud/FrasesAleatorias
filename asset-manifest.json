@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/FrasesAleatorias/static/js/main.9743d3d9.chunk.js",
+    "main.js.map": "/FrasesAleatorias/static/js/main.9743d3d9.chunk.js.map",
+    "runtime-main.js": "/FrasesAleatorias/static/js/runtime-main.3f2ea64b.js",
+    "runtime-main.js.map": "/FrasesAleatorias/static/js/runtime-main.3f2ea64b.js.map",
+    "static/js/2.b2e05a43.chunk.js": "/FrasesAleatorias/static/js/2.b2e05a43.chunk.js",
+    "static/js/2.b2e05a43.chunk.js.map": "/FrasesAleatorias/static/js/2.b2e05a43.chunk.js.map",
+    "index.html": "/FrasesAleatorias/index.html",
+    "static/js/2.b2e05a43.chunk.js.LICENSE.txt": "/FrasesAleatorias/static/js/2.b2e05a43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f2ea64b.js",
+    "static/js/2.b2e05a43.chunk.js",
+    "static/js/main.9743d3d9.chunk.js"
+  ]
+}
